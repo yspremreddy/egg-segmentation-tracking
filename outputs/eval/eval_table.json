@@ -1,0 +1,222 @@
+[
+ {
+  "name": "not_damaged_103",
+  "iou": 0.2972686629721045,
+  "dice": 0.4582993044648867,
+  "precision": 0.9254104599325867,
+  "recall": 0.3045661664718372,
+  "gt_eggs": 3,
+  "pred_eggs": 1,
+  "mode": "missed egg(s)",
+  "gt_frac": 0.2046728515625
+ },
+ {
+  "name": "not_damaged_104",
+  "iou": 0.3144024858488699,
+  "dice": 0.4783960609231835,
+  "precision": 0.31888349124779186,
+  "recall": 0.9572173179476364,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.08103271484375
+ },
+ {
+  "name": "not_damaged_31",
+  "iou": 0.3948595886390078,
+  "dice": 0.5661639233871276,
+  "precision": 0.5238088495575222,
+  "recall": 0.615971227813114,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "boundary/mixed",
+  "gt_frac": 0.1466259765625
+ },
+ {
+  "name": "not_damaged_150",
+  "iou": 0.4219539661612832,
+  "dice": 0.5934847065413701,
+  "precision": 0.42311611766001983,
+  "recall": 0.9935327405012127,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.07550048828125
+ },
+ {
+  "name": "not_damaged_52",
+  "iou": 0.42678552510102463,
+  "dice": 0.5982476238968092,
+  "precision": 0.4270440537307104,
+  "recall": 0.9985835192464323,
+  "gt_eggs": 1,
+  "pred_eggs": 2,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.06894287109375
+ },
+ {
+  "name": "not_damaged_149",
+  "iou": 0.43742798569440494,
+  "dice": 0.6086259486357343,
+  "precision": 0.437866986219293,
+  "recall": 0.9977132325335336,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.07153076171875
+ },
+ {
+  "name": "not_damaged_111",
+  "iou": 0.5615076182838813,
+  "dice": 0.7191865242399342,
+  "precision": 0.5627893518518519,
+  "recall": 0.9959604005461994,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.12873046875
+ },
+ {
+  "name": "not_damaged_106",
+  "iou": 0.5994491063993338,
+  "dice": 0.7495694661380111,
+  "precision": 0.5998102758691416,
+  "recall": 0.9989965198454214,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.11434814453125
+ },
+ {
+  "name": "not_damaged_121",
+  "iou": 0.6230496161149178,
+  "dice": 0.7677517802644964,
+  "precision": 0.9939417884893982,
+  "recall": 0.6254247120245298,
+  "gt_eggs": 3,
+  "pred_eggs": 2,
+  "mode": "missed egg(s)",
+  "gt_frac": 0.117841796875
+ },
+ {
+  "name": "not_damaged_163",
+  "iou": 0.6358249839960697,
+  "dice": 0.7773753185293047,
+  "precision": 0.7088866020448812,
+  "recall": 0.8605133784655061,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.121171875
+ },
+ {
+  "name": "not_damaged_156",
+  "iou": 0.6652521038624757,
+  "dice": 0.7989806496199032,
+  "precision": 0.6662584641982423,
+  "recall": 0.9977346278317152,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "leak (over-seg)",
+  "gt_frac": 0.09052734375
+ },
+ {
+  "name": "not_damaged_142",
+  "iou": 0.717015047068416,
+  "dice": 0.8351878433361754,
+  "precision": 0.9819063086839568,
+  "recall": 0.7266154626204203,
+  "gt_eggs": 2,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.2600146484375
+ },
+ {
+  "name": "not_damaged_62",
+  "iou": 0.7823546079195296,
+  "dice": 0.8778888381058363,
+  "precision": 0.9137125129265771,
+  "recall": 0.8447682423129876,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.063837890625
+ },
+ {
+  "name": "not_damaged_151",
+  "iou": 0.8716415874892031,
+  "dice": 0.9314193415188059,
+  "precision": 0.9980999479437793,
+  "recall": 0.8730903212586234,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.10722900390625
+ },
+ {
+  "name": "not_damaged_152",
+  "iou": 0.87478531772976,
+  "dice": 0.9332111889899657,
+  "precision": 0.8810136765888978,
+  "recall": 0.9919833325784683,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.05390380859375
+ },
+ {
+  "name": "not_damaged_2",
+  "iou": 0.8756751910706682,
+  "dice": 0.9337173037628306,
+  "precision": 0.9905182030220059,
+  "recall": 0.8830775489908008,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.10801513671875
+ },
+ {
+  "name": "not_damaged_136",
+  "iou": 0.9100160073176309,
+  "dice": 0.9528883567794073,
+  "precision": 0.9950106832749921,
+  "recall": 0.9141875593889336,
+  "gt_eggs": 2,
+  "pred_eggs": 2,
+  "mode": "good",
+  "gt_frac": 0.23380615234375
+ },
+ {
+  "name": "not_damaged_102",
+  "iou": 0.9167420583850456,
+  "dice": 0.956562782534702,
+  "precision": 0.9674187822719449,
+  "recall": 0.9459477227306196,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.18568359375
+ },
+ {
+  "name": "not_damaged_16",
+  "iou": 0.9693356330226541,
+  "dice": 0.9844290803136079,
+  "precision": 0.9700112851832182,
+  "recall": 0.9992819408114069,
+  "gt_eggs": 1,
+  "pred_eggs": 1,
+  "mode": "good",
+  "gt_frac": 0.14280029296875
+ },
+ {
+  "name": "not_damaged_105",
+  "iou": 0.9834682689206851,
+  "dice": 0.9916652404586684,
+  "precision": 0.9919708279120729,
+  "recall": 0.9913598412263893,
+  "gt_eggs": 3,
+  "pred_eggs": 3,
+  "mode": "good",
+  "gt_frac": 0.1426953125
+ }
+]

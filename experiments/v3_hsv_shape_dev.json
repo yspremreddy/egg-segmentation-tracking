@@ -1,0 +1,553 @@
+{
+ "summary": {
+  "iou": 0.3285131883767577,
+  "dice": 0.3775210081732426,
+  "precision": 0.44662100963321266,
+  "recall": 0.33861865152795195,
+  "median_iou": 0.0,
+  "frac_iou_gt_0.5": 0.4,
+  "sec_per_img": 0.007360312673780654
+ },
+ "per_image": {
+  "not_damaged_1": {
+   "iou": 0.783437007106527,
+   "dice": 0.8785698670429477,
+   "precision": 0.9990282485875707,
+   "recall": 0.7840344778660613
+  },
+  "not_damaged_10": {
+   "iou": 0.7667309039943938,
+   "dice": 0.8679656899201745,
+   "precision": 0.9605662655009694,
+   "recall": 0.7916490804944226
+  },
+  "not_damaged_100": {
+   "iou": 0.7689053367112082,
+   "dice": 0.8693572468278893,
+   "precision": 0.9591642826897456,
+   "recall": 0.7949277595179403
+  },
+  "not_damaged_101": {
+   "iou": 0.9047785560521456,
+   "dice": 0.9500091789435036,
+   "precision": 0.9985046368317596,
+   "recall": 0.9060061933055401
+  },
+  "not_damaged_107": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_108": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_109": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_11": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_110": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_112": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_113": {
+   "iou": 0.49809384758892,
+   "dice": 0.6649701530923021,
+   "precision": 0.9833853791336375,
+   "recall": 0.5023211108611628
+  },
+  "not_damaged_114": {
+   "iou": 0.40710746246579393,
+   "dice": 0.5786444508685711,
+   "precision": 0.9411010429133185,
+   "recall": 0.41775129966227753
+  },
+  "not_damaged_115": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_116": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_117": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_118": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_119": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_12": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_120": {
+   "iou": 0.8201689267214359,
+   "dice": 0.9012008882041057,
+   "precision": 0.986996744222981,
+   "recall": 0.8291279622433834
+  },
+  "not_damaged_122": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_123": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_124": {
+   "iou": 0.7184652893622482,
+   "dice": 0.8361708482676224,
+   "precision": 0.7440201984408221,
+   "recall": 0.954375
+  },
+  "not_damaged_125": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_126": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_127": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_128": {
+   "iou": 0.6512976070104483,
+   "dice": 0.7888312854635261,
+   "precision": 0.9846875079619863,
+   "recall": 0.6579614906620814
+  },
+  "not_damaged_129": {
+   "iou": 0.5480993073931086,
+   "dice": 0.7080932144024658,
+   "precision": 0.7121573637439645,
+   "recall": 0.7040751885285486
+  },
+  "not_damaged_13": {
+   "iou": 0.904337570436378,
+   "dice": 0.9497660335810625,
+   "precision": 0.9946670510233496,
+   "recall": 0.9087437450618909
+  },
+  "not_damaged_130": {
+   "iou": 0.9395853980839115,
+   "dice": 0.968851795865358,
+   "precision": 0.9926488231572977,
+   "recall": 0.9461690404407943
+  },
+  "not_damaged_131": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_132": {
+   "iou": 0.5080930703085483,
+   "dice": 0.6738219017273185,
+   "precision": 0.9991409711547156,
+   "recall": 0.5083151236342726
+  },
+  "not_damaged_133": {
+   "iou": 0.26063829787234044,
+   "dice": 0.41350210970464135,
+   "precision": 1.0,
+   "recall": 0.26063829787234044
+  },
+  "not_damaged_134": {
+   "iou": 0.5006350245499182,
+   "dice": 0.6672308940677596,
+   "precision": 0.9951849249108561,
+   "recall": 0.5018506365664785
+  },
+  "not_damaged_135": {
+   "iou": 0.6226533166458073,
+   "dice": 0.7674508291554184,
+   "precision": 0.8883207531856181,
+   "recall": 0.675533884705592
+  },
+  "not_damaged_138": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_139": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_14": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_140": {
+   "iou": 0.5407099849769923,
+   "dice": 0.701897164617995,
+   "precision": 0.9995845087362505,
+   "recall": 0.5408315388437965
+  },
+  "not_damaged_141": {
+   "iou": 0.7866468673253755,
+   "dice": 0.88058460987648,
+   "precision": 0.9864071273060616,
+   "recall": 0.7952676798004527
+  },
+  "not_damaged_143": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_144": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_145": {
+   "iou": 0.6340364754998902,
+   "dice": 0.7760371142338466,
+   "precision": 0.901085174486689,
+   "recall": 0.6814666115604888
+  },
+  "not_damaged_146": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_147": {
+   "iou": 0.26578845408756296,
+   "dice": 0.4199571472298745,
+   "precision": 0.3747226110409341,
+   "recall": 0.47761194029850745
+  },
+  "not_damaged_148": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_15": {
+   "iou": 0.8231200463947419,
+   "dice": 0.9029795355741703,
+   "precision": 1.0,
+   "recall": 0.8231200463947419
+  },
+  "not_damaged_153": {
+   "iou": 0.8440560621411686,
+   "dice": 0.915434274987409,
+   "precision": 1.0,
+   "recall": 0.8440560621411686
+  },
+  "not_damaged_154": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_155": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_157": {
+   "iou": 0.6683929286033756,
+   "dice": 0.8012416225749559,
+   "precision": 0.9901659924675686,
+   "recall": 0.6728595464347497
+  },
+  "not_damaged_158": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_159": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_160": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_161": {
+   "iou": 0.7535128011318487,
+   "dice": 0.8594323356470224,
+   "precision": 0.9899676622616047,
+   "recall": 0.7593109778723903
+  },
+  "not_damaged_162": {
+   "iou": 0.9453309724004114,
+   "dice": 0.9718973129121927,
+   "precision": 0.9866429108937187,
+   "recall": 0.9575859772732155
+  },
+  "not_damaged_164": {
+   "iou": 0.9519694698105493,
+   "dice": 0.9753938107474025,
+   "precision": 0.9904002949392396,
+   "recall": 0.9608352936321242
+  },
+  "not_damaged_17": {
+   "iou": 0.9350519177460024,
+   "dice": 0.9664360001618713,
+   "precision": 0.9993639315724281,
+   "recall": 0.9356087317631203
+  },
+  "not_damaged_18": {
+   "iou": 0.7861481986810902,
+   "dice": 0.8802720840987214,
+   "precision": 0.9992154919691152,
+   "recall": 0.7866337277337148
+  },
+  "not_damaged_19": {
+   "iou": 0.8108269254492372,
+   "dice": 0.8955322168606301,
+   "precision": 0.9997718399837753,
+   "recall": 0.810976989039462
+  },
+  "not_damaged_20": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_21": {
+   "iou": 0.9857908275017692,
+   "dice": 0.9928445774341164,
+   "precision": 0.9950340136054422,
+   "recall": 0.9906647552179164
+  },
+  "not_damaged_22": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_24": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_25": {
+   "iou": 0.6632580119931695,
+   "dice": 0.7975407389721244,
+   "precision": 0.9879329212386502,
+   "recall": 0.6686751811666733
+  },
+  "not_damaged_27": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_28": {
+   "iou": 0.7201525374009974,
+   "dice": 0.83731241473397,
+   "precision": 0.9787561225652125,
+   "recall": 0.7315879097488293
+  },
+  "not_damaged_29": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_3": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_30": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_32": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_33": {
+   "iou": 0.716842976727072,
+   "dice": 0.8350711002046743,
+   "precision": 0.9819061539236934,
+   "recall": 0.7264388388612338
+  },
+  "not_damaged_34": {
+   "iou": 0.9865982930332491,
+   "dice": 0.9932539421715255,
+   "precision": 0.9945315958885259,
+   "recall": 0.9919795669920989
+  },
+  "not_damaged_35": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_36": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_37": {
+   "iou": 0.698259931106873,
+   "dice": 0.8223239779928965,
+   "precision": 0.994315909138755,
+   "recall": 0.701058318861231
+  },
+  "not_damaged_39": {
+   "iou": 0.19107667375671022,
+   "dice": 0.32084697478634294,
+   "precision": 1.0,
+   "recall": 0.19107667375671022
+  },
+  "not_damaged_4": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_40": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_41": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_42": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_43": {
+   "iou": 0.7703461876273967,
+   "dice": 0.870277455348785,
+   "precision": 0.9999354672173464,
+   "recall": 0.7703844879018893
+  },
+  "not_damaged_44": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_45": {
+   "iou": 0.6871035483102769,
+   "dice": 0.8145363086912446,
+   "precision": 0.9864793460354956,
+   "recall": 0.6936358073258152
+  },
+  "not_damaged_49": {
+   "iou": 0.8559435093724311,
+   "dice": 0.9223809938718016,
+   "precision": 0.9999370286991703,
+   "recall": 0.8559896500141504
+  },
+  "not_damaged_5": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_50": {
+   "iou": 0.4855239090671544,
+   "dice": 0.6536736381066296,
+   "precision": 0.9244738544206179,
+   "recall": 0.5055779277318241
+  },
+  "not_damaged_55": {
+   "iou": 0.7074339650252432,
+   "dice": 0.8286516252062308,
+   "precision": 0.9977297353077756,
+   "recall": 0.708574569439355
+  },
+  "not_damaged_6": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_78": {
+   "iou": 0.0,
+   "dice": 0.0,
+   "precision": 0.0,
+   "recall": 0.0
+  },
+  "not_damaged_95": {
+   "iou": 0.749238556434472,
+   "dice": 0.8566453714142553,
+   "precision": 0.9979569798324723,
+   "recall": 0.7503895362872254
+  }
+ }
+}

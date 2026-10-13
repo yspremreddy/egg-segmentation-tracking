@@ -1,0 +1,35 @@
+# --- environment / caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# --- heavy or re-creatable inputs (see README: SAM weights, Roboflow export)
+checkpoints/
+egg.v1i.folder/
+egg-images.zip
+notebooks/
+data/images/
+
+# --- third-party source video and the stray download in the project root
+data/video_src/
+vidssave.com*.mp4
+
+# --- derived data that can be regenerated
+outputs/sam_cache/
+outputs/sam_masks_v1/
+outputs/classical_masks/dev/
+outputs/video/*.mp4
+experiments/pool_*.pkl
+
+# --- scratch / debug images in outputs/ (keep the QA sheets)
+outputs/*.jpg
+!outputs/qa_sheet1.jpg
+!outputs/qa_sheet2.jpg
+!outputs/qa_fix.jpg
+!outputs/qa_fix2.jpg
+
+# --- assignment document (third party) and internal working notes
+CV Intern Task*.pdf
+plan.md

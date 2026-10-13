@@ -1,0 +1,13 @@
+matplotlib==3.11.2
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+reportlab==5.0.1
+scikit-image==0.26.0
+scikit-learn==1.9.1
+scipy==1.18.1
+segment-anything==1.0
+torch==2.14.1
+torchvision==0.29.1
+tqdm==4.70.1
+yt-dlp==2026.8.19
